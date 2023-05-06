@@ -27,7 +27,7 @@
 
 5.	What is a docker container? 
 
-A Docker container image is a lightweight, standalone, executable package of software that includes everything needed to run an application: code, runtime, system tools, system libraries and settings.
+    A Docker container image is a lightweight, standalone, executable package of software that includes everything needed to run     an application: code, runtime, system tools, system libraries and settings.
 
 
 
