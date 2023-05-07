@@ -27,25 +27,26 @@
 
 5.	What is a docker container? 
 
-    A Docker container image is a lightweight, standalone, executable package of software that includes everything needed to run     an application: code, runtime, system tools, system libraries and settings.
+  Answer  -  A Docker container image is a lightweight, standalone, executable package of software that includes everything needed to run     an application: code, runtime, system tools, system libraries and settings.
 
 
 
 
 
 6.	How do you troubleshoot miscommunications of docker containers? - Nelly
-
-
+    Answer  - $Ping -c4 command can be use to troubleshoot miscommunications of docker containers. If ping response is positive then the containers are on the same 
+              network if negative response then they are not on the same network
 
 
 
 7.	How are you using docker in your current role at Etech Consulting? - Nelly
-
-
+    Answer  - At Etech Consulting with use docker to containerize applications.
+    
 
 
 8.	What implementation will you deploy to ensure data is persisted from a docker container 
 application? - Nelly
+    Answer  - Persistent mount will be implemented to ensure data is  persisted from a docker container application.
 
 
 
